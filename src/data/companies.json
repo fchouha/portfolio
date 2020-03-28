@@ -1,0 +1,134 @@
+[
+  {
+    "id": "doremi",
+    "name": "Doremi Labs",
+    "url": "https://en.wikipedia.org/wiki/Doremi_Labs",
+    "logo": "../images/logos/doremi.png"
+  },
+  {
+    "id": "dolby",
+    "name": "Dolby Laboratories",
+    "url": "https://www.dolby.com/us/en/index.html",
+    "logo": "../images/logos/dolby.png",
+    "projects": [
+      {
+        "id": "tms",
+        "name": "Theatre Management System",
+        "description": "A software solution that simplifies and streamlines digital cinema operations.",
+        "roles": [
+          "Designed, implemented and maintained the web UI.",
+          "Participated in designing the SOAP API.",
+          "Tranformed customer requirements into functional web components."
+        ],
+        "techs": ["PHP", "JavaScript", "JQuery", "LESS", "SOAP"],
+        "thumb": "../images/projects/tms/tms-thumb.png",
+        "images": [
+          "../images/projects/tms/tms-1.png",
+          "../images/projects/tms/tms-2.png",
+          "../images/projects/tms/tms-3.png",
+          "../images/projects/tms/tms-4.png",
+          "../images/projects/tms/tms-5.png",
+          "../images/projects/tms/tms-6.png"
+        ]
+      },
+      {
+        "id": "ctms",
+        "name": "Central Theater Management System",
+        "description": "A software solution to centralize the operations of multiple cinema theaters in different geographical locations.",
+        "roles": [
+          "Designed the software architectue.",
+          "Implemented the RESTful API",
+          "Designed and implemented the front-end."
+        ],
+        "techs": [
+          "NodeJS",
+          "Angular",
+          "Bootstrap",
+          "SASS",
+          "REST",
+          "WebSockets",
+          "Google Maps"
+        ],
+        "thumb": "../images/projects/ctms/ctms-thumb.png",
+        "images": [
+          "../images/projects/ctms/ctms-1.png",
+          "../images/projects/ctms/ctms-2.png",
+          "../images/projects/ctms/ctms-3.png",
+          "../images/projects/ctms/ctms-4.png"
+        ]
+      },
+      {
+        "id": "cp",
+        "name": "Dolby Cinema Processor UI",
+        "description": "A server that provides easy-to-operate audio control in digital cinema environments.",
+        "roles": [
+          "Transformed the UI designs into functional Angular components.",
+          "Created cutom Bootstrap theme for the UI.",
+          "Improved the layout."
+        ],
+        "techs": ["Angular", "Bootstrap", "SASS", "REST"],
+        "thumb": "../images/projects/cp/cp-thumb.png",
+        "images": [
+          "../images/projects/cp/cp-1.png",
+          "../images/projects/cp/cp-2.png",
+          "../images/projects/cp/cp-3.png",
+          "../images/projects/cp/cp-4.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "klickjam",
+    "name": "Klickjam",
+    "url": "https://www.klickjam.com/",
+    "logo": "../images/logos/klickjam.png",
+    "projects": [
+      {
+        "id": "klickjam",
+        "name": "Klickjam.com",
+        "description": "The world's first digital platform designed to unite the world of music.",
+        "roles": [
+          "Created a modern responsive design for the website.",
+          "Collaborated with the back-end developer to improve the website's performance."
+        ],
+        "techs": ["JavaScript", "Bootstrap", "JQuery", "LESS", "Google Maps"],
+        "thumb": "../images/projects/klickjam/klickjam-thumb.png",
+        "images": [
+          "../images/projects/klickjam/klickjam-1.png",
+          "../images/projects/klickjam/klickjam-2.png",
+          "../images/projects/klickjam/klickjam-3.png"
+        ],
+        "url": "https://www.klickjam.com/"
+      }
+    ]
+  },
+  {
+    "id": "tbco",
+    "name": "The Boxoffice Company",
+    "url": "https://company.boxoffice.com/",
+    "logo": "../images/logos/tbco.png",
+    "projects": [
+      {
+        "id": "pulse",
+        "name": "Box Office Pulse",
+        "description": "A website that shows latest and historical Box Office data including highest performing movies, genres, directors, studios and more.",
+        "techs": [
+          "JavaScript",
+          "React",
+          "Next.js",
+          "GraphQL",
+          "3D.js",
+          "PostCSS"
+        ],
+        "thumb": "../images/projects/pulse/pulse-thumb.png",
+        "images": [
+          "../images/projects/pulse/pulse-1.png",
+          "../images/projects/pulse/pulse-2.png",
+          "../images/projects/pulse/pulse-3.png",
+          "../images/projects/pulse/pulse-4.png"
+        ],
+        "url": "https://pulse.boxofficepro.com/"
+      }
+    ]
+  }
+]

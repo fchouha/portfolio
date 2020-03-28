@@ -1,0 +1,11 @@
+@import "../../sass/variables";
+
+#contact {
+  min-height: 50rem;
+}
+
+.icon-link {
+  i:hover {
+    color: $primary !important;
+  }
+}

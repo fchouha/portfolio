@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Programming Languages",
+    "skills": ["JavaScript", "TypeScript", "NodeJS", "PHP", "HTML", "CSS"]
+  },
+  {
+    "title": "Frameworks & Libs",
+    "skills": [
+      "React",
+      "Next.js",
+      "GatsbyJS",
+      "Angular",
+      "Bootstrap",
+      "JQuery",
+      "3D.js"
+    ]
+  },
+  {
+    "title": "Web Techs",
+    "skills": ["REST", "GraphQL", "SOAP", "WebSockets"]
+  }
+]
